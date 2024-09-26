@@ -1,2 +1,2 @@
-## Anlog clock
-[LIVE HEAR](file:///C:/Users/Ashish%20raj/Desktop/Class%20project/clock/index.html)
+## Anlog Clock
+[LIVE HEARE](http://127.0.0.1:5500/index.html)
